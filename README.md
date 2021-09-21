@@ -1,2 +1,2 @@
-# qwb_Web
-rebuild some Vue plugins
+# EgaleVision
+Fastly flow-based visual scripting for tracing variables
